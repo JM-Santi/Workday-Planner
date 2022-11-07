@@ -1,4 +1,4 @@
-#Work Day Planner
+# Work Day Planner
 
 Daily planner that allows you to track daily goals. It displays the current date and time and organised events by the hour.
 
